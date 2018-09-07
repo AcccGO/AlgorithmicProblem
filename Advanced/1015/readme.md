@@ -1,3 +1,4 @@
+# Graduate Admission
 ### 题目描述
 It is said that in 2013, there were about 100 graduate schools ready to proceed over 40,000 applications in Zhejiang Province.  It would help a lot if you could write a program to automate the admission procedure.
 Each applicant will have to provide two grades: the national entrance exam grade GE, and the interview grade GI.  The final grade of an applicant is (GE + GI) / 2.  The admission rules are:
