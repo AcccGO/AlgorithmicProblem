@@ -1,3 +1,4 @@
+# Forwards on Weibo (30)
 ### 题目描述
 Weibo is known as the Chinese version of Twitter.  One user on Weibo may have many followers, and may follow many other users as well.  Hence a social network is formed with followers relations.  When a user makes a post on Weibo, all his/her followers can view and forward his/her post, which can then be forwarded again by their followers.  Now given a social network, you are supposed to calculate the maximum potential amount of forwards for any specific user, assuming that only L levels of indirect followers are counted.
 
