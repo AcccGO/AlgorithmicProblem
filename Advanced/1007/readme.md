@@ -1,3 +1,4 @@
+# Consecutive Factors
 ### 题目描述
 Among all the factors of a positive integer N, there may exist several consecutive numbers.  For example, 630 can be factored as 3*5*6*7, where 5, 6, and 7 are the three consecutive numbers.  Now given any positive N, you are supposed to find the maximum number of consecutive factors, and list the smallest sequence of the consecutive factors.
 
